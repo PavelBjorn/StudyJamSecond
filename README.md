@@ -16,3 +16,5 @@ When application starts activity with short description and start button is appe
 For start watch to steps you must press the button in left-hand corner on screen
 
 ![alt tag](https://github.com/PavelBjorn/StadyJamSecond/blob/master/screenshots/Screenshot_1.png)
+![alt tag](https://github.com/PavelBjorn/StadyJamSecond/blob/master/screenshots/Screenshot_2.png)
+![alt tag](https://github.com/PavelBjorn/StadyJamSecond/blob/master/screenshots/Screenshot_3.png)
